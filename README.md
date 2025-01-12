@@ -27,13 +27,13 @@ The anomalies detected by the z-score method are visualized to provide clear ins
 2. **Security**: Detect abnormal behavior that may indicate security breaches or potential threats.  
 3. **Performance Optimization**: Gain insights into resource usage patterns and optimize system performance.
 ## How to Use
-1. Clone this repository:
+1. Ensure OpenHardwareMonitor is Installed and Running:
+   ```bash
+   https://openhardwaremonitor.org/
+   ```
+2. Clone this repository:
    ```bash
    git clone https://github.com/Onnome-Joseph/Anomaly-detection.git
-   ```
-2. Navigate to the repository:
-   ```bash
-   cd Onome-Joseph
    ```
 3. Run the anomaly detection script:
    ```bash
