@@ -1,0 +1,5 @@
+pandas
+numpy
+WMI
+psutil
+https://openhardwaremonitor.org/     # To download the hardware monitor software to collect data
